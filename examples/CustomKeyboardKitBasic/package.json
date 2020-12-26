@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "react": "16.6.0-alpha.8af6728",
+    "react": "16.14.0",
     "react-native": "0.57.3",
     "react-native-custom-keyboard-kit": "^1.0.2"
   },
